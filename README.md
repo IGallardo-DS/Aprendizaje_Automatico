@@ -1,1 +1,1 @@
-# Aprendizaje_Automatico
+# Repositorio para los ejercios de la materia Aprendizaje Automatico 2026
